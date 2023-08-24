@@ -64,3 +64,10 @@ emotion_labels = ["Çok Olumsuz", "Olumsuz", "Nötr", "Olumlu", "Çok Olumlu"]
 predicted_emotion = emotion_labels[predicted_class.item()]
 print("Metnin Tahmin Edilen Duygusu:", predicted_emotion)
 ```
+
+
+
+
+#hugging face alternatifleri diğerlerinden ayıran yönleri
+#pricing kısmı farklar
+#özelleştirme nasıl yapılır yapabilirsem örnek
