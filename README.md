@@ -71,3 +71,4 @@ print("Metnin Tahmin Edilen Duygusu:", predicted_emotion)
 #hugging face alternatifleri diğerlerinden ayıran yönleri
 #pricing kısmı farklar
 #özelleştirme nasıl yapılır yapabilirsem örnek
+https://www.canva.com/design/DAFscFhC7_M/imrGZR5XMAiyHTV6C_Sv3g/edit?utm_content=DAFscFhC7_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
